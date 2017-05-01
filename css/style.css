@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+body {
+    font-family: 'Indie Flower', cursive;
+    font-size: 3em;
+}
+
+.flexbox-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.group-buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+footer {
+    width: 100%;
+    align-self: flex-end;
+}
