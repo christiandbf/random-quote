@@ -17,6 +17,10 @@ body {
     justify-content: space-around;
 }
 
+#personal-brand {
+    font-size: 18px;
+}
+
 footer {
     width: 100%;
     align-self: flex-end;
